@@ -1,5 +1,9 @@
 # Init_to_Winit_SkillForge
 Team Init_to_Winit's Submission for Hack4Change
+Find our application deployed here:
+[SkillForge India](https://skillforgeindia.streamlit.app/)
+
+
 
 # SkillForge India
 
@@ -138,3 +142,12 @@ The YouTube Video Summarizer and Notes Creator summarizes video content and extr
 
 ## Conclusion
 Our hackathon project leverages advanced technologies to provide innovative solutions for education, career planning, and personal development. Each solution model is designed to enhance user experience and provide valuable insights, helping users achieve their learning and career goals. Explore our project and unlock your potential today!
+
+## Authors
+
+[@SayliJain](https://github.com/SayliJain) 
+
+[@codekid211](https://github.com/codekid211)
+
+[@RatanRavichandran](https://github.com/RatanRavichandran)
+
