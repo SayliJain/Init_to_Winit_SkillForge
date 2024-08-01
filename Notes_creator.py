@@ -6,8 +6,8 @@ from youtube_transcript_api.formatters import TextFormatter
 import google.generativeai as genai
 from urllib.parse import urlparse, parse_qs
 
-YOUTUBE_DATA_API_KEY = "AIzaSyDWSmR2qRaTviw739lZObCIKUM9FREHN2U"
-GEMINI_API_KEY = "AIzaSyCeG-08H7jsgXlkRHdggXgPQe4Ujlgg7UE"
+YOUTUBE_DATA_API_KEY = ""
+GEMINI_API_KEY = ""
 
 # Configure the YouTube and Gemini API clients
 youtube = build(serviceName='youtube', version='v3', developerKey=YOUTUBE_DATA_API_KEY)
